@@ -1,4 +1,4 @@
-![a widened image of Kita Ikuyo from Bocchi the Rock!](assets/widekita.png)
+![a widened image of Kita Ikuyo from Bocchi the Rock!](./assets/widekita.png)
 # haro everynyan!
 
 ### I'm Koreka, a teenager (as of 2026) who happens to like coding (and tinkering with tech)
